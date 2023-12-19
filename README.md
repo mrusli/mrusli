@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrusli (Rusli Usman) from Jakarta, Indonesia.
-- 👀 I’m interested in Java, Spring, Hibernate and ZK
+- 👀 I’ve done a lot of stuffs in Java, Spring, Hibernate and ZK
 - 🌱 I’m currently learning React, Node, Tailwind CSS
 - 💞️ I’m looking to collaborate on Java, Microservice architecture
 - 📫 How to reach me : mrusli@asimetris.co.id or rusli1621@gmail.com
